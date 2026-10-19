@@ -1,0 +1,22 @@
+# Секрети
+.env
+*.session
+*.session-journal
+qr_login.png
+
+# База даних (на сервері своя)
+data.db
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+
+# Логи
+*.log
+
+# Mac
+.DS_Store
