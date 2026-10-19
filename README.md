@@ -70,7 +70,7 @@ source never blocks the others.
 ## Setup
 
 ```bash
-git clone https://github.com/anton-bryzhchuk/crypto-signal-scanner.git
+git clone https://github.com/mesut101010/crypto-signal-scanner.git
 cd crypto-signal-scanner
 python3.11 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
